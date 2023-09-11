@@ -1,7 +1,7 @@
 # Penguin Animation Challenge
 
 ## Preview
-![alt text](./)
+![alt text](./penguin-animation.PNG)
 
 ## Description
 
