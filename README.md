@@ -1,4 +1,6 @@
-# Penguin Animation Challenge &#128039 &#128075
+# Penguin Animation Challenge
+&#128075;
+&#x1F44B;
 
 ## Preview
 ![alt text](./penguin-animation.PNG)
