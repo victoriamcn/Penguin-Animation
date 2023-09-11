@@ -1,4 +1,7 @@
 # Penguin Animation Challenge
+	
+&#128039;
+&#x1F427;
 &#128075;
 &#x1F44B;
 
