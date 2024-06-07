@@ -1,3 +1,9 @@
+# Note from Victoria
+
+In December 2022, I was curious about software and started [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design course. This project, along with the [Taylor-Swift-Tribute-Page project](https://github.com/victoriamcn/Taylor-Swift-Tribute-Page/tree/main), are apart of that course. Long story short, these projects are what started my tech journey. While I don't update them and they are static one page sites written in vanilla HTML and CSS, I keep them here as a testament to how far I've come.
+
+---
+
 # Penguin Animation Challenge
 	
 &#128039;
@@ -10,7 +16,7 @@
 
 ## Description
 
-The animation was a freeCodeCamp challenge. I didn't have creative freedom to make it my own, but I 
+This animation was a freeCodeCamp challenge and made 100% with CSS.
 
 ## Instructions
 
